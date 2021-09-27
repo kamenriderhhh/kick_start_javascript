@@ -1,6 +1,6 @@
 # Instructions for Kick Starting JavaSript
 
-#### 1. Copy the following files to your desired project location.
+#### 1. Copy files from resource folder to your desired project location.
 
 > [index.html](./resource/index.html)<br>
 > [main.css](./resource/main.css)<br>
